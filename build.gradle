@@ -12,7 +12,7 @@ sourceSets {
     }
 }
 application{
-    mainClass='src/demo/starwars/Main.java'
+    mainClass='src/main/java/demo/starwars/Main.java'
 }
 dependencies {
 
